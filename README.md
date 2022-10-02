@@ -8,6 +8,7 @@
 - Randomly renders any two movies from the IMDb top 250 list.
 - Behind the scenes, it checks if the value of the selected movie is indeed higher, then updates the score. Else, you lose.
 - Uses rapid api for getting the titles and information (highly recommend)
+- Some URLs are broken, in that case, I re-generate a random movie.
 
 # Extra work that I did :
 - Copied the source code from IMDb's page and wrote a python script to get titles using regex and stored it.
