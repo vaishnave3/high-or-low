@@ -1,0 +1,72 @@
+body {
+    background-color: black;
+    color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* grid-template-columns: 4fr 1fr 4fr; */
+}
+
+.leftimg,
+.rightimg {
+    height: 100vh;
+    width: 100%;
+}
+
+.leftimg img {
+    width: auto;
+    height: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.rightimg img {
+    width: auto;
+    height: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.score {
+    margin-top: 450px;
+}
+
+.score2 img {
+    width: 100%;
+    height: 100vh;
+}
+
+.scoreCard {
+    position: relative;
+    bottom: 500px;
+    text-align: center;
+    color: aliceblue;
+}
+
+button {
+    margin-top: 5%;
+    color: aquamarine;
+    margin-left: 10%;
+    background-color: transparent;
+    height: 50px;
+    width: 513px;
+    border: 1px solid aqua;
+    border-radius: 70px;
+    cursor: pointer;
+}
+
+.samebtn {
+    margin-left: 0;
+}
+
+.play {
+    margin-left: 0;
+    color: white;
+    border: 1px solid white;
+}
