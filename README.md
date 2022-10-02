@@ -1,6 +1,6 @@
 # high-or-low
 
-# [website]: https://astonishing-truffle-ae5e84.netlify.app/
+# [website]: https://vaishnave3high-or-low.netlify.app/
 
 #### This app was completely created using ReactJs
 
