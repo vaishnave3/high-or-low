@@ -12,3 +12,5 @@
 # Extra work that I did :
 - Copied the source code from IMDb's page and wrote a python script to get titles using regex and stored it.
 - The script and file can be found in assets.
+
+### Please feel free to fork it and help me with the CSS as it is not at all mobile responsive, thanks in advance.
